@@ -1,0 +1,57 @@
+body{
+text-align: center;
+background-color: #f3#f3#A;
+font-family:arial;
+}
+body {background-color: #44EDF6;}
+.article{
+text-align: center;
+background-color:#ffA;
+padding: 30px;
+margin: auto;
+width: 50%;
+border: 3px solid green;
+
+}
+form, table {
+     display:inline;
+     margin:0px;
+     padding:0px;
+}
+
+.enter{
+text-align: center;
+background-color:#ffA;
+padding: 30px;
+margin: auto;
+width: 50%;
+border: 3px solid green;
+}
+
+.inserts{
+text-align: center;
+background-color:#ffA;
+padding: 30px;
+margin: auto;
+width: 50%;
+border: 3px solid green;
+}
+
+.article-box{
+text-align: center;
+padding-bottom:60px;
+width:100%;
+}
+
+input{
+padding:0px 0px;
+width: 300px;
+height:40px;
+font-size:22px;
+}
+button{
+padding:0px 0px;
+width: 100px;
+height:40px;
+font-size:22px;
+}
